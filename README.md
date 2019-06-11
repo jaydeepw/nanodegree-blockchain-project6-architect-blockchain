@@ -9,3 +9,7 @@ Once you’ve decided on a supply chain industry, let’s begin planning. Create
 - Sequence
 - State
 - Classes (Data Model)
+
+## Class Diagram
+<img src="./images/class-diag.svg"
+     alt="Main source tree" />
