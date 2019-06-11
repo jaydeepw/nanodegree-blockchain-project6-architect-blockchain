@@ -13,5 +13,5 @@ Once you’ve decided on a supply chain industry, let’s begin planning. Create
 ## Class Diagram
 <a href="https://github.com/jaydeepw/nanodegree-blockchain-project6-architect-blockchain/blob/master/images/class-diag.png?raw=true">Click to enlarge</a>
 
-<img src="./images/class-diag.svg"
+<img src="https://github.com/jaydeepw/nanodegree-blockchain-project6-architect-blockchain/blob/master/images/class-diag.png?raw=true"
      alt="Class diagram" />
