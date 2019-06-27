@@ -17,9 +17,9 @@ Once you’ve decided on a supply chain industry, let’s begin planning. Create
      alt="Activity diagram" />
 
 ## Sequence Diagram
-<a href="https://raw.githubusercontent.com/jaydeepw/nanodegree-blockchain-project6-architect-blockchain/master/images/sequence-diag.png">Click to enlarge</a>
+<a href="https://raw.githubusercontent.com/jaydeepw/nanodegree-blockchain-project6-architect-blockchain/master/images/sequence-diag3.png">Click to enlarge</a>
 
-<img src="https://raw.githubusercontent.com/jaydeepw/nanodegree-blockchain-project6-architect-blockchain/master/images/sequence-diag.png"
+<img src="https://raw.githubusercontent.com/jaydeepw/nanodegree-blockchain-project6-architect-blockchain/master/images/sequence-diag3.png"
      alt="Sequence diagram" />
 
 ## State Diagram
