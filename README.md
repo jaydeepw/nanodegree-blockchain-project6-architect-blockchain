@@ -11,9 +11,9 @@ Once you’ve decided on a supply chain industry, let’s begin planning. Create
 - Classes (Data Model)
 
 ## Activity Diagram
-<a href="https://raw.githubusercontent.com/jaydeepw/nanodegree-blockchain-project6-architect-blockchain/master/images/activity-diag.png">Click to enlarge</a>
+<a href="https://raw.githubusercontent.com/jaydeepw/nanodegree-blockchain-project6-architect-blockchain/master/images/activity-diag2.png">Click to enlarge</a>
 
-<img src="https://raw.githubusercontent.com/jaydeepw/nanodegree-blockchain-project6-architect-blockchain/master/images/activity-diag.png"
+<img src="https://raw.githubusercontent.com/jaydeepw/nanodegree-blockchain-project6-architect-blockchain/master/images/activity-diag2.png"
      alt="Activity diagram" />
 
 ## Sequence Diagram
